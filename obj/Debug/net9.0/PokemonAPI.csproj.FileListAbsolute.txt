@@ -1,0 +1,7 @@
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.csproj.AssemblyReference.cache
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.AssemblyInfoInputs.cache
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.AssemblyInfo.cs
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.csproj.CoreCompileInputs.cache
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\PokemonAPI\obj\Debug\net9.0\PokemonAPI.MvcApplicationPartsAssemblyInfo.cache

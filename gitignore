@@ -1,0 +1,34 @@
+# Compilados do .NET
+bin/
+obj/
+out/
+
+# Arquivos de build do VS
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Configurações locais
+.vscode/
+*.swp
+
+# SQLite e banco local
+*.db
+*.sqlite
+
+# Arquivos do Rider/JetBrains
+.idea/
+*.DotSettings
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
