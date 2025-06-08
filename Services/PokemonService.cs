@@ -17,7 +17,6 @@ namespace PokemonAPI.Services
             _httpClient = httpClient;
             _httpClientFactory = httpClientFactory;
             _httpClient.BaseAddress = new Uri("https://pokeapi.co/api/v2/");
-            //_httpClient.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
             _logger = logger;
         }
 
