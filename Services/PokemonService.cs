@@ -21,14 +21,14 @@ namespace PokemonAPI.Services
             _logger = logger;
         }
 
-        public async Task<List<PokemonDto?>> GetRandomPokemonsAsync(int count = 10)
+        public async Task<List<PokemonDetalhadoDto?>> GetRandomPokemonsAsync(int count = 10)
         {
             var random = new Random();
-            var tasks = new List<Task<PokemonDto?>>();
+            var tasks = new List<Task<PokemonDetalhadoDto?>>();
             for (int i = 0; i < count; i++)
             {
                 int randomId = random.Next(1, 151); // 1 a 150 (1ª geração)
-                tasks.Add(GetPokemonByIdAsync(randomId));
+                tasks.Add(GetPokemonDetalhadoAsync(randomId));
             }
 
             var results = await Task.WhenAll(tasks);

@@ -163,3 +163,4 @@ D:\Projetos\PokemonAPI\obj\Debug\net8.0\ref\PokemonAPI.dll
 D:\Projetos\PokemonAPI\bin\Debug\net8.0\System.Net.Http.Formatting.dll
 D:\Projetos\PokemonAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Projetos\PokemonAPI\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Projetos\PokemonAPI\obj\Debug\net8.0\PokemonAPI.sourcelink.json

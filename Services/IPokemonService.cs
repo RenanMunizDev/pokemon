@@ -5,7 +5,7 @@ namespace PokemonAPI.Services
 {
     public interface IPokemonService
     {
-        Task<List<PokemonDto?>> GetRandomPokemonsAsync(int count = 10);
+        Task<List<PokemonDetalhadoDto?>> GetRandomPokemonsAsync(int count = 10);
         Task<PokemonDetalhadoDto?> GetPokemonDetalhadoAsync(int id);
     }
 }
