@@ -54,8 +54,8 @@ http://localhost:5000/swagger
 
 ### Mestres
 
-- `POST /api/Masters` → Cadastra mestre
-- `GET /api/Masters/{id}` → Consulta mestre por ID
+- `POST /api/Mestres` → Cadastra mestre
+- `GET /api/Mestres/{id}` → Consulta mestre por ID
 
 ### Capturas
 
